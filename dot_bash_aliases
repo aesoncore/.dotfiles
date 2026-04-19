@@ -1,4 +1,0 @@
-alias st='sudo tlp setcharge 40 80 BAT0'
-alias remove-tresholds='sudo tlp fullcharge BAT0'
-alias truecaller_reg='cd ~/dev/social_links/scripts/truecaller_registration && pyenv activate sl_api && python registration.py'
-alias codify_bot='cd ~/code/pet_projects/live_bot && . ./venv/bin/activate && python main.py'
